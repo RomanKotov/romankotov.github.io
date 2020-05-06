@@ -36,7 +36,7 @@ pre, code {
 /* Inline code, no highlight */
 code {
     padding: 2px 4px;
-    border-radius: 3px;
+    border-radius: 5px;
 
     white-space: nowrap;
 }
@@ -47,7 +47,7 @@ blockquote code {
 
 /* Inline code, highlight */
 code.highlight {
-    border-radius: 3px;
+    border-radius: 5px;
 
     color: $nimbus-fg;
     background-color: $nimbus-bg;
