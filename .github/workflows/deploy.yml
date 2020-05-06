@@ -19,9 +19,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
       - name: Build & Deploy to GitHub Pages
+        uses: ./.github/actions/build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
-        run: |
-          bash scripts/deploy.sh
