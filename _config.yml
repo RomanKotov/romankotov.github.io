@@ -21,8 +21,6 @@
 title: Roman Kotov's blog
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog
-license: >-
-  [![License: CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://romankotov.com"
 
