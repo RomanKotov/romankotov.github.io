@@ -5,17 +5,4 @@
 @import "minima/initialize";
 @import "minima/nimbus_pygments";
 @import "minima/syntax-highlighting";
-
-.highlight {
-  border-radius: 3px;
-  background: $background-color;
-  @extend %vertical-rhythm;
-
-  .highlighter-rouge & {
-    pre {
-	background: $nimbus-bg;
-	border-radius: 5px;
-    }
-    background: $background-color;
-  }
-}
+@import "minima/highlight";
