@@ -14,5 +14,6 @@ I want to say thanks for help building this site to:
 - [Staticman](https://staticman.net/) for helping to setup a comments system for the site.
 - A [post of Travis Downs](https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html) and also [post of Willy McAllister](https://spinningnumbers.org/a/staticman-heroku.html) for setting up a comments.
 - [Site of Dave Thomas](https://pragdave.me) for inspiration about privacy and credit sections of this site.
+- [Inline highlighting tag](https://github.com/bdesham/inline_highlight) by Benjamin Esham.
 
 Roman Kotov
