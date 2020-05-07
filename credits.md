@@ -13,5 +13,6 @@ I want to say thanks for help building this site to:
 - [Github action for deploying a custom jekyll site](https://github.com/marketplace/actions/jekyll-4-build-deploy). It has helped to configure my own action after some trials.
 - [Staticman](https://staticman.net/) for helping to setup a comments system for the site.
 - A [post of Travis Downs](https://travisdowns.github.io/blog/2020/02/05/now-with-comments.html) and also [post of Willy McAllister](https://spinningnumbers.org/a/staticman-heroku.html) for setting up a comments.
+- [Site of Dave Thomas](https://pragdave.me) for inspiration about privacy and credit sections of this site.
 
 Roman Kotov
