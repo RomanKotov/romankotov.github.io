@@ -1,8 +1,9 @@
 ---
 ---
 
+@import "custom/overrides";
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
 @import "minima/nimbus_pygments";
 @import "minima/syntax-highlighting";
-@import "minima/highlight";
+@import "custom/highlight";
