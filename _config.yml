@@ -60,3 +60,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+staticman_url: https://bot-staticman.herokuapp.com/v2/entry/RomanKotov/RomanKotov/master/comments
+
+reCaptcha:
+  siteKey: 6LfV0fYUAAAAAEkNYj6U6xVTDaHUpSi_fjiGuTtm
+  secret: Yve1n83c6QK4CnsVnTdAoa8lCQ2GfOJLGE5tIwjti/PXch60P1r1/fc/AzGYSbaseSdBatb7FA/C87ZrkSaoPlXWqK4wLB2Vrdq7lCs6EqnUrOqJVD6ch5+xEd65DSEAx+bTqxZOMQ4IPy08aBLcvryYK9DB6yBeU0cexoFJyJXodnNVGaWV3J7b0tHlYtfDr/apYvsWMssRDz+lEZwftJX1fjenoramppdVDS9GRtMvVEGtOk8UPgTlKfFXAfPaCZFGXoL2XR1HfngPB8iv7TXyDOaRINmIePRftsmWiapMudtWpEqLZxq0PfcUiSwYR2Vj7BmXGxZho/HJg9/Rbl6sLRw5gMjgNHfcL+0zvQF0g2Zw5ToZBvEbQDrp30C9ejHXG/7VTrlAIYa2AiT/8jVZ+ey/v40Qj1cxeNhhfyZCcZvg1OWp7e6C5vbTvHsatRyGhT2Yd+eP/JfDxD0eQEzvWsYBthDd2xBodAQA8CAvfeDpJLfbcl3Nq4l3uOxemyYeCG3Xe+nlnnE3VQSijUlpyfeYd4CL3aMOPFm6/5BgZk7ac6EFTuSrlBkHyrCQMTba4oyjD869hO3ARXuqXLNdYzJltjBN3wymQbjhuf7qzlYUNoLxm6/wXUAsr7DgRniM8J3fAKHB/2N3WRYaevSEi79Nzgzy/SoHQXBpk+g=
