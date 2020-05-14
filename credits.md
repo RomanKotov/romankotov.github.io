@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Credits
+comments: false
 ---
 I want to say thanks for help building this site to:
 

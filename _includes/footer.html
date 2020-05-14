@@ -1,8 +1,8 @@
-<div class="wrapper">
-  {% if page.comments == true %}
+{% if page.comments != false %}
+  <div class="wrapper">
     {% include comments.html %}
-  {% endif %}
-</div>
+  </div>
+{% endif %}
 
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
