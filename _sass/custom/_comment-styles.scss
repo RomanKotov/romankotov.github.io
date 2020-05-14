@@ -25,7 +25,6 @@ fieldset {
 }
 
 .textfield {
-    width: 420px;
     max-width: 100%;
     padding: 0.5rem 0;
 }
@@ -40,7 +39,7 @@ textarea {
 .textfield__input {
     border: 1px solid rgba(0,0,0,.12);
     padding: 4px 5px;
-    width: 100%;
+    width: 98%;
     font-size: $comment-font-size;
 }
 .notify-me, .g-recaptcha {
@@ -136,7 +135,7 @@ button:hover {
     width: 330px;
     top: 50%;
     left: 50%;
-    margin-left: -150px;
+    margin-left: -165px;
     margin-top: -150px;
     min-height: 0;
     z-index: 9999;
