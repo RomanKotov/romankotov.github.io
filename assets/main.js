@@ -29,7 +29,7 @@
         grecaptcha.reset();
       },
       error: function (err) {
-        console.log(err);
+        console.error(err);
         var ecode = (err.responseJSON || {}).errorCode || "unknown";
         showModal('Error', 'An error occured.<br>[' + ecode + ']');
         $("#comment-form-submit").html("Submit")
